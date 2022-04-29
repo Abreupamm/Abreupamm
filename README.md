@@ -1,7 +1,7 @@
 ## Olá Devs!! 👋 Me chamo Pamela Abreu!
  ### Bem vindo ao meu perfil GitHub 
  
- <img src="https://user-images.githubusercontent.com/99986000/166005216-8774257f-cad0-4cda-b66e-fc42f5fb216f.png" width="200" height="200"/> 
+ <img src="https://user-images.githubusercontent.com/99986000/166005216-8774257f-cad0-4cda-b66e-fc42f5fb216f.png" width="150" height="150"/> 
  <br/>
  - 🌱 Atualmente estou estudando Desenvolvimento Web na Trybe
 <br/>
