@@ -12,6 +12,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Abreupamm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   <br/>
+   ![Snake animation](https://github.com/Abreupamm/Abreupamm/blob/output/github-contribution-grid-snake.svg)
   
  ### Ferramentas e Tecnologias
   
@@ -20,14 +21,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<div/>
-   
- ### Estou aprendendo
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" />
+<div/>
+  
    <br/>
-   
-  ![Snake animation](https://github.com/Abreupamm/Abreupamm/blob/output/github-contribution-grid-snake.svg)
 
   
   ### Contato:
