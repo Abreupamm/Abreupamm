@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" />
    <br/>
    
+  ![Snake animation](https://github.com/Abreupamm/Abreupamm/blob/output/github-contribution-grid-snake.svg)
+
   
   ### Contato:
 
