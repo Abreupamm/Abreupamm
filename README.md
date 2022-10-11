@@ -4,6 +4,7 @@
  - 🌱 Atualmente estou como Summer de Instrução e estudando Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> (Escola que ensina a programar, aprender e a trabalhar)
 <br/>
 <br/>
+<hr></hr>
 <div>
 <a href="https://github.com/Abreupamm">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abreupamm&layout=compact&langs_count=7&theme=dracula"/>
