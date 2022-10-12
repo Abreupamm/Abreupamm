@@ -1,5 +1,4 @@
 ## Olá Devs!! 👋 Me chamo Pamela Abreu!
-<br/>
 
  ### Bem vindo ao meu perfil GitHub 
  <br/>
