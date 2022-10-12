@@ -2,7 +2,7 @@
  ### Bem vindo ao meu perfil GitHub 
 <br/>
 <div>
- <div>
+ <div width="350">
  - 🌱 Atualmente estou como Summer de Instrução e estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> que é uma escola que ensina a programar, aprender e a trabalhar
 <br/>
 Me apaixonei por tecnologia assim que tive o primeiro contato com programação em 2021, decidi estudar desenvolvimento web e foi a melhor escolha que já fiz.
