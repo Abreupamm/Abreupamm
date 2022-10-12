@@ -31,20 +31,27 @@ Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta p
 </div>
  
  <hr></hr> 
-
-   ![Snake animation](https://github.com/Abreupamm/Abreupamm/blob/output/github-contribution-grid-snake.svg)
-
  
-  
- ### Ferramentas e Tecnologias
+ 
+ ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Linguagens e ferramentas:
   
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+ <img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/react.png"/>
+ <img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mysql.png"/>
+ <img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/nodejs.png"/>
+ <img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/docker.png"/><
 <div/>
   
    <br/>
+
+   ![Snake animation](https://github.com/Abreupamm/Abreupamm/blob/output/github-contribution-grid-snake.svg)
+
+ 
+  
+
 
   
   ### Contato:
