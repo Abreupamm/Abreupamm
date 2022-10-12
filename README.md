@@ -49,9 +49,10 @@ Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta p
  
  <div>
 <!--- <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abreupamm=github_dark"/>-->
- <img alt="GitHub Commits" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abreupamm&theme=github_dark"/>
 <img alt="GitHub Stats" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abreupamm&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abreupamm&theme=github_dark"/>
+</div>
+<div> <img alt="GitHub Commits" width="600px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abreupamm&theme=github_dark"/>
 </div>
  
  <hr></hr> 
