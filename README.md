@@ -4,7 +4,7 @@
 <div>
  
   <div>
-<img margin="20px"  align="right" alt="GIF" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" width="350px" height="350px" /> 
+<img margin="20px"  align="right" alt="GIF" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" width="250px" height="250px" /> 
  </div>
  
   ### Bem vindo ao meu perfil GitHub 
