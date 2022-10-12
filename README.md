@@ -1,5 +1,5 @@
 ## Olá Devs!! 👋 Me chamo Pamela Abreu!
- ### Bem vindo ao meu perfil GitHub 
+ ###  <img src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" height="40" /> Bem vindo ao meu perfil GitHub 
 <br/>
 <div>
  <div width="350">
@@ -10,7 +10,7 @@ Nesse pouco tempo no universo da tecnologia já aprendi muito e sei que ainda te
 Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
  </div>
  <div>
- <img src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" width="350" height="400" />
+
  </div>
  </div>
  <hr></hr> 
