@@ -51,28 +51,27 @@ Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta p
 <!--- <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abreupamm=github_dark"/>-->
  <img alt="GitHub Commits" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abreupamm&theme=github_dark"/>
 <img alt="GitHub Stats" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abreupamm&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abreupamm&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abreupamm&theme=github_dark"/>
 </div>
  
  <hr></hr> 
 
-   ![Snake animation](https://github.com/Abreupamm/Abreupamm/blob/output/github-contribution-grid-snake.svg)
-
+   
  
   
 
 
-  
-  ### Contato:
 
 
 
-   <img src="https://user-images.githubusercontent.com/99986000/166005216-8774257f-cad0-4cda-b66e-fc42f5fb216f.png" width="300" height="300"/> 
+
+ <!--  <img src="https://user-images.githubusercontent.com/99986000/166005216-8774257f-cad0-4cda-b66e-fc42f5fb216f.png" width="300" height="300"/> 
 <div>
 <a href="https://github.com/Abreupamm">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abreupamm&layout=compact&langs_count=7&theme=dracula"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abreupamm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+![Snake animation](https://github.com/Abreupamm/Abreupamm/blob/output/github-contribution-grid-snake.svg)-->
 
    
   
