@@ -39,10 +39,10 @@ Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
- <img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/react.png"/>
- <img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mysql.png"/>
- <img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/nodejs.png"/>
- <img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/docker.png"/><
+ <img width="40" height="40" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/react.png"/>
+ <img width="40" height="40" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mysql.png"/>
+ <img width="40" height="40" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/nodejs.png"/>
+ <img width="40" height="40" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/docker.png"/>
 <div/>
   
    <br/>
