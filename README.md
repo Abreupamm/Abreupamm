@@ -1,17 +1,21 @@
 ## Olá Devs!! 👋 Me chamo Pamela Abreu!
- ###  <img src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" height="40" /> Bem vindo ao meu perfil GitHub 
 <br/>
+
 <div>
- <div width="350">
+ 
+  <div>
+<img  align="right" alt="GIF" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" width="350px" height="350px" /> 
+ </div>
+ 
+  ### Bem vindo ao meu perfil GitHub 
+ <div align="justify">
  - 🌱 Atualmente estou como Summer de Instrução e estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> que é uma escola que ensina a programar, aprender e a trabalhar
 <br/>
 Me apaixonei por tecnologia assim que tive o primeiro contato com programação em 2021, decidi estudar desenvolvimento web e foi a melhor escolha que já fiz.
 Nesse pouco tempo no universo da tecnologia já aprendi muito e sei que ainda tenho MUITO a aprender. Já consigo contribuir no desenvolvimento de pessoas estudantes e é uma das coisas na qual tenho muito prazer em fazer.
 Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
  </div>
- <div>
 
- </div>
  </div>
  <hr></hr> 
 
