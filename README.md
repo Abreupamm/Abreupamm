@@ -33,7 +33,7 @@ Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta p
  <hr></hr> 
  
  
- ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Linguagens e ferramentas:
+ ### Linguagens e ferramentas:
   
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
@@ -46,6 +46,15 @@ Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta p
 <div/>
   
    <br/>
+ 
+ <div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abreupamm=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abreupamm&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abreupamm&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abreupamm&theme=github_dark"/>
+</div>
+ 
+ <hr></hr> 
 
    ![Snake animation](https://github.com/Abreupamm/Abreupamm/blob/output/github-contribution-grid-snake.svg)
 
