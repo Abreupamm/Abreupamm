@@ -7,7 +7,7 @@
 <div>
  
   <div>
-<img margin="20px"  align="right" alt="GIF" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" width="300px" height="300px" /> 
+<img margin="20px"  align="right" alt="GIF" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" width="280px" height="280px" /> 
  </div>
  
  <br/>
