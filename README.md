@@ -7,7 +7,7 @@
 <div>
  
   <div>
-<img margin="20px"  align="right" alt="GIF" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" width="280px" height="280px" /> 
+<img margin="20px"  align="right" alt="GIF" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" width="250px" height="250px" /> 
  </div>
  
  <br/>
@@ -49,9 +49,9 @@ Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta p
  
  <div>
 <!--- <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abreupamm=github_dark"/>-->
-<img alt="GitHub Stats" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abreupamm&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abreupamm&theme=github_dark"/>
-<img alt="GitHub Commits" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abreupamm&theme=github_dark"/>
+<img alt="GitHub Stats" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abreupamm&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abreupamm&theme=github_dark"/>
+<img alt="GitHub Commits" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abreupamm&theme=github_dark"/>
 </div>
  
  <hr></hr> 
