@@ -5,6 +5,7 @@
 <br/>
 <br/>
 <hr></hr> 
+
 ### Sobre mim
 
 Me apaixonei por tecnologia assim que tive o primeiro contato com programação em 2021, decidi estudar desenvolvimento web e foi a melhor escolha que já fiz.
