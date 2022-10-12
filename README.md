@@ -1,9 +1,6 @@
 ## Olá Devs!! 👋 Me chamo Pamela Abreu!
  ### Bem vindo ao meu perfil GitHub 
 <br/>
-<hr></hr> 
-
-### Sobre mim
 
  - 🌱 Atualmente estou como Summer de Instrução e estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> que é uma escola que ensina a programar, aprender e a trabalhar
 
