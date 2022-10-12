@@ -1,17 +1,18 @@
 ## Olá Devs!! 👋 Me chamo Pamela Abreu!
  ### Bem vindo ao meu perfil GitHub 
  <br/>
- - 🌱 Atualmente estou como Summer de Instrução e estudando Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> (Escola que ensina a programar, aprender e a trabalhar)
+ - 🌱 Atualmente estou como Summer de Instrução e estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> que é uma escola que ensina a programar, aprender e a trabalhar
 <br/>
 <br/>
-<hr></hr>
-<div>
-<a href="https://github.com/Abreupamm">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abreupamm&layout=compact&langs_count=7&theme=dracula"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abreupamm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
- 
+<hr></hr> 
+### Sobre mim
+Me apaixonei por tecnologia assim que tive o primeiro contato com programação em 2021, decidi estudar desenvolvimento web e foi a melhor escolha que já fiz.
+Nesse pouco tempo no universo da tecnologia já aprendi muito e sei que ainda tenho MUITO a aprender, já consigo contribuir no desenvolvimento de pessoas estudantes e é uma das coisas na qual tenho muito prazer em fazer.
+Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronto para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
+hr></hr> 
    ![Snake animation](https://github.com/Abreupamm/Abreupamm/blob/output/github-contribution-grid-snake.svg)
+
+ 
   
  ### Ferramentas e Tecnologias
   
@@ -31,7 +32,11 @@
 </div>
 
    <img src="https://user-images.githubusercontent.com/99986000/166005216-8774257f-cad0-4cda-b66e-fc42f5fb216f.png" width="300" height="300"/> 
-
+<div>
+<a href="https://github.com/Abreupamm">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abreupamm&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abreupamm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
    
   
