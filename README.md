@@ -17,7 +17,7 @@
  <p> 
   
 Me apaixonei por tecnologia assim que tive o primeiro contato com programação em 2021, decidi estudar desenvolvimento web e foi a melhor escolha que já fiz. <br/>
-Nesse pouco tempo no universo da tecnologia já aprendi muito e sei que ainda tenho MUITO a aprender. Já consigo contribuir no desenvolvimento de pessoas estudantes e é uma das coisas na qual tenho muito prazer em fazer. <br/>
+Nesse pouco tempo, no universo da tecnologia, já aprendi muito e sei que ainda tenho MUITO a aprender. Já consigo contribuir no desenvolvimento de pessoas estudantes e é uma das coisas na qual tenho muito prazer em fazer. <br/>
 Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
   
  </p>
@@ -25,6 +25,10 @@ Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta p
  </div>
  
  </div>
+ 
+ <div>
+<a href="https://www.linkedin.com/in/pamela-silva-de-abreu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
  
  <hr></hr> 
 
@@ -45,9 +49,7 @@ Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta p
   
   ### Contato:
 
-<div>
-<a href="https://www.linkedin.com/in/pamela-silva-de-abreu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+
 
    <img src="https://user-images.githubusercontent.com/99986000/166005216-8774257f-cad0-4cda-b66e-fc42f5fb216f.png" width="300" height="300"/> 
 <div>
