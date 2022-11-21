@@ -49,6 +49,8 @@ Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta p
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> 
+   <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vs.png" alt="vsCode" width="40" height="40"/> 
+  <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3629713-3030764.png" alt="Typescript" width="40" height="40"/> 
 <div/>
   
    <br/>
