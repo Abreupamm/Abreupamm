@@ -2,7 +2,13 @@
 
  ### Bem vindo ao meu perfil GitHub 
  <br/>
-  - 🌱 Atualmente estou como Summer de Instrução e estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> que é uma escola que ensina a programar, aprender e a trabalhar 
+  - 🚀 Estudante de Análise e Desenvolvimento de Sistemas
+    <br/>
+  - 🚀 Conquistei a AWS Certified Cloud Practitioner em Janeiro de 2024
+    <br/>
+  - 💼 Atuei com desenvolvimento no-code e micros serviços com a aws na última empresa que trabalhei
+    <br/>
+  - 🌱 Atuei como Summer de Instrução <a href="https://www.betrybe.com/">Trybe</a> que é uma escola que ensina a programar, aprender e a trabalhar 
  <br/>
 <div>
  <!--
@@ -13,19 +19,22 @@
  
  <br/>
  
+ ### Sobre Mim
  <div align="justify">
-  
+
  <p> 
-  
 Me apaixonei por tecnologia assim que tive o primeiro contato com programação em 2021, decidi estudar desenvolvimento web e foi a melhor escolha que já fiz. <br/>
 Nesse pouco tempo, no universo da tecnologia, já aprendi muito e sei que ainda tenho MUITO a aprender. Já consigo contribuir no desenvolvimento de pessoas estudantes e é uma das coisas na qual tenho muito prazer em fazer. <br/>
 Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
-  
+  <br/>
+  <br/>
+Já pude vivenciar a aplicação de diversos serviços AWS em minha última experiência profissional, o que consolidou minha familiaridade com a plataforma. Atualmente, me encontro nos estágios iniciais da graduação em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, onde minha empolgação em expandir meu conhecimento e contribuir significativamente para a área só cresce.
+
+Ao mesmo tempo que me dedico aos estudos acadêmicos, dedico esforços ao aprimoramento contínuo de minha expertise em computação em nuvem, com especial atenção à AWS. Esse comprometimento reflete minha determinação em integrar teoria e prática, aplicando os conhecimentos adquiridos tanto na graduação quanto na especialização em nuvem AWS. Estou animada em direcionar essa fusão de aprendizado para alavancar meu crescimento profissional. 
  </p>
-  
  </div>
- 
  </div>
+
  
  <div>
 <a href="https://www.linkedin.com/in/pamela-silva-de-abreu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -65,7 +74,7 @@ Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta p
    <br/>
 
 
- 
+ <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
  <div>
 <!-- - <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abreupamm=github_dark"/> -->
 <img alt="GitHub Stats" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abreupamm&theme=github_dark"/>
