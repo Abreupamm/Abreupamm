@@ -42,9 +42,9 @@ Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta p
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
  <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/862px-React-icon.svg.png"/>
- <img width="40" height="40" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mysql.png"/>
- <img width="40" height="40" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/nodejs.png"/>
- <img width="40" height="40" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/docker.png"/>
+ <img width="40" height="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"/>
+ <img width="40" height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
+ <img width="40" height="40" src="https://www.svgrepo.com/show/353659/docker-icon.svg"/>
  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
