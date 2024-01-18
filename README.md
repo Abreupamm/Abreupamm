@@ -5,10 +5,11 @@
   - 🌱 Atualmente estou como Summer de Instrução e estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> que é uma escola que ensina a programar, aprender e a trabalhar 
  <br/>
 <div>
- 
+ <!--
   <div>
 <img margin="20px"  align="right" alt="GIF" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif" width="250px" height="250px" /> 
  </div>
+ --!>
  
  <br/>
  
