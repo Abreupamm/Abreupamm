@@ -38,21 +38,27 @@ Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta p
  <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp; Linguagens e ferramentas:
   
  <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
- <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/862px-React-icon.svg.png"/>
- <img width="40" height="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"/>
- <img width="40" height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
- <img width="40" height="40" src="https://www.svgrepo.com/show/353659/docker-icon.svg"/>
- <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> 
-   <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vs.png" alt="vsCode" width="40" height="40"/> 
-  <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3629713-3030764.png" alt="Typescript" width="40" height="40"/> 
+  <a href="https://aws.amazon.com/pt/s3/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="https://aws.amazon.com/pt/s3/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/pt/s3/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/pt/s3/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="40" height="40" /></a>
+  <a href="https://aws.amazon.com/pt/s3/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/pt/s3/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40" /></a>
+  <a href="https://aws.amazon.com/pt/s3/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/pt/s3/" > <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" /></a>
+  <a href="https://aws.amazon.com/pt/s3/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/pt/s3/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/pt/s3/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/pt/s3/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/pt/s3/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vsCode" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/pt/s3/" > <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3629713-3030764.png" alt="Typescript" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/pt/s3/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/pt/s3/" > <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="s3" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/pt/s3/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Half-Life_lambda_logo.svg/2048px-Half-Life_lambda_logo.svg.png" alt="lambda" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/pt/s3/" > <img src="https://cdn.worldvectorlogo.com/logos/aws-api-gateway.svg" alt="api gateway" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/pt/s3/" > <img src="https://static-00.iconduck.com/assets.00/aws-rds-icon-454x512-53t9ho5u.png" alt="rds" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/pt/s3/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/pt/s3/" > <img src="https://getlogovector.com/wp-content/uploads/2021/08/bubble-io-logo-vector.png" alt="bubble" width="40" height="40"/> </a>
 <div/>
   
    <br/>
