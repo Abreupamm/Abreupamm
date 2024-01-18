@@ -29,7 +29,7 @@ Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta p
  
  <div>
 <a href="https://www.linkedin.com/in/pamela-silva-de-abreu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="Abreu:abreupamm@gmail.com" target="_blank"><img alt"Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:abreupamm@gmail.com" target="_blank"><img alt"Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
  
  <hr></hr> 
