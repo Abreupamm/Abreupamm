@@ -34,7 +34,7 @@ Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta p
  <hr></hr> 
  
  
- ### Linguagens e ferramentas:
+ <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;###  Linguagens e ferramentas:
   
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
