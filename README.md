@@ -2,13 +2,19 @@
 
  ### Bem vindo ao meu perfil GitHub 
  <br/>
-  - 🚀 Estudante de Análise e Desenvolvimento de Sistemas
+  - 💻 Desenvolvedora Front-End em atuação profissional
     <br/>
-  - 🚀 Conquistei a AWS Certified Cloud Practitioner em Janeiro de 2024
+  - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas – Estácio
     <br/>
-  - 💼 Atuei com desenvolvimento no-code e micros serviços com a aws na última empresa que trabalhei
+  -🌎 Experiência em projetos internacionais, colaborando com equipes multiculturais
     <br/>
-  - 🌱 Atuei como Summer de Instrução <a href="https://www.betrybe.com/">Trybe</a> que é uma escola que ensina a programar, aprender e a trabalhar 
+  - 🧩 Atuação em manutenção e evolução de sistemas legados (.NET MVC, jQuery)
+  <br/>
+  - ☁️ Experiência com AWS e integração de serviços em ambiente profissional
+  <br/>
+  - 📚 Ex Summer de Instrução da <a href="https://www.betrybe.com/">Trybe</a>, apoiando o desenvolvimento de pessoas estudantes
+  <br/>
+  - 🗣️ Em aprimoramento contínuo de espanhol para comunicação com times e clientes
  <br/>
 <div>
  <!--
@@ -19,18 +25,17 @@
  
  <br/>
  
- ### Sobre Mim
+ ### ✨ Sobre Mim
  <div align="justify">
 
  <p> 
-Me apaixonei por tecnologia assim que tive o primeiro contato com programação em 2021, decidi estudar desenvolvimento web e foi a melhor escolha que já fiz. <br/>
-Nesse pouco tempo, no universo da tecnologia, já aprendi muito e sei que ainda tenho MUITO a aprender. Já consigo contribuir no desenvolvimento de pessoas estudantes e é uma das coisas na qual tenho muito prazer em fazer. <br/>
-Agora, me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronta para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
+Minha jornada na tecnologia começou em 2021, quando tive meu primeiro contato com programação e descobri no desenvolvimento web uma área que unia lógica, criatividade e impacto real na vida das pessoas. Desde então, sigo em constante evolução, aprendendo na prática e me adaptando rapidamente a novos desafios.
   <br/>
+  Atualmente, atuo como Desenvolvedora Front-End, participando de projetos de grande escala e alcance internacional, com foco na manutenção, evolução e estabilidade de sistemas legados, além da implementação de soluções voltadas à análise de dados e experiência do usuário. Paralelamente, curso Análise e Desenvolvimento de Sistemas, fortalecendo minha base teórica e técnica.
   <br/>
-Já pude vivenciar a aplicação de diversos serviços AWS em minha última experiência profissional, o que consolidou minha familiaridade com a plataforma. Atualmente, me encontro nos estágios iniciais da graduação em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, onde minha empolgação em expandir meu conhecimento e contribuir significativamente para a área só cresce.
-
-Ao mesmo tempo que me dedico aos estudos acadêmicos, dedico esforços ao aprimoramento contínuo de minha expertise em computação em nuvem, com especial atenção à AWS. Esse comprometimento reflete minha determinação em integrar teoria e prática, aplicando os conhecimentos adquiridos tanto na graduação quanto na especialização em nuvem AWS. Estou animada em direcionar essa fusão de aprendizado para alavancar meu crescimento profissional. 
+Ao longo da minha trajetória, também tive a oportunidade de atuar com desenvolvimento full stack, soluções no-code e serviços AWS, experiências que ampliaram minha visão sobre arquitetura, integração e entrega de valor com eficiência.
+  <br/>
+Sou mãe e acredito que conciliar maternidade e carreira fortaleceu habilidades essenciais como resiliência, organização e aprendizado contínuo. Gosto de compartilhar conhecimento, apoiar o crescimento de outras pessoas desenvolvedoras e sigo motivada a construir soluções que gerem impacto positivo, tanto técnico quanto humano.
  </p>
  </div>
  </div>
