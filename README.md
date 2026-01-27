@@ -30,11 +30,13 @@
 
  <p> 
 Minha jornada na tecnologia começou em 2021, quando tive meu primeiro contato com programação e descobri no desenvolvimento web uma área que unia lógica, criatividade e impacto real na vida das pessoas. Desde então, sigo em constante evolução, aprendendo na prática e me adaptando rapidamente a novos desafios.
-  <br/>
+ </p>
+  <p> 
   Atualmente, atuo como Desenvolvedora Front-End, participando de projetos de grande escala e alcance internacional, com foco na manutenção, evolução e estabilidade de sistemas legados, além da implementação de soluções voltadas à análise de dados e experiência do usuário. Paralelamente, curso Análise e Desenvolvimento de Sistemas, fortalecendo minha base teórica e técnica.
-  <br/>
+ <p> 
 Ao longo da minha trajetória, também tive a oportunidade de atuar com desenvolvimento full stack, soluções no-code e serviços AWS, experiências que ampliaram minha visão sobre arquitetura, integração e entrega de valor com eficiência.
-  <br/>
+ </p>
+  <p> 
 Sou mãe e acredito que conciliar maternidade e carreira fortaleceu habilidades essenciais como resiliência, organização e aprendizado contínuo. Gosto de compartilhar conhecimento, apoiar o crescimento de outras pessoas desenvolvedoras e sigo motivada a construir soluções que gerem impacto positivo, tanto técnico quanto humano.
  </p>
  </div>
